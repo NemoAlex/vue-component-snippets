@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[<template lang="pug">
+  $1
+</template>
+
+]]></content>
+  <tabTrigger>pug</tabTrigger>
+  <scope>text.html.vue</scope>
+  <description>template with pug</description>
+</snippet>

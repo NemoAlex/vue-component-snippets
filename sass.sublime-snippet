@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[<style lang="sass">
+  $1
+</style>
+
+]]></content>
+  <tabTrigger>sass</tabTrigger>
+  <scope>text.html.vue</scope>
+  <description>style with sass</description>
+</snippet>

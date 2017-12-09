@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[<template>
+  $1
+</template>
+
+]]></content>
+  <tabTrigger>template</tabTrigger>
+  <scope>text.html.vue</scope>
+  <description>template tag</description>
+</snippet>
